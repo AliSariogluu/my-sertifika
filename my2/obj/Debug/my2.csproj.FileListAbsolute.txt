@@ -1,0 +1,7 @@
+C:\Users\Ali Sarıoğlu\Desktop\yücedap eğitim\my2\my2\obj\Debug\my2.csproj.AssemblyReference.cache
+C:\Users\Ali Sarıoğlu\Desktop\yücedap eğitim\my2\my2\obj\Debug\my2.csproj.CoreCompileInputs.cache
+C:\Users\Ali Sarıoğlu\Desktop\yücedap eğitim\my2\my2\bin\Debug\my2.exe.config
+C:\Users\Ali Sarıoğlu\Desktop\yücedap eğitim\my2\my2\bin\Debug\my2.exe
+C:\Users\Ali Sarıoğlu\Desktop\yücedap eğitim\my2\my2\bin\Debug\my2.pdb
+C:\Users\Ali Sarıoğlu\Desktop\yücedap eğitim\my2\my2\obj\Debug\my2.exe
+C:\Users\Ali Sarıoğlu\Desktop\yücedap eğitim\my2\my2\obj\Debug\my2.pdb
